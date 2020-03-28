@@ -19,8 +19,4 @@ if __name__ == '__main__':
   # retrieve by gabor
   method = Gabor()
   samples = method.make_samples(db)
-  for query_idx in range(len(samples)):
-    query = samples[query_idx]
-    result = infer(query, samples=samples)
-    write_result(result)
-    print(result)
+  result = infer(samples=samples)

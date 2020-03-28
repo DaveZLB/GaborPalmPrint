@@ -1,2 +1,5 @@
+database/
+src/__pycache__
+src/cache
 .DS_Store
 .idea

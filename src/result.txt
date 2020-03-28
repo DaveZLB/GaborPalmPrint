@@ -1,30 +1,102 @@
-hamming distance of 050_1.bmp and 001_2.bmp : 0.49606068929036456
-hamming distance of 050_1.bmp and 001_1.bmp : 0.49991607666015625
-hamming distance of 050_1.bmp and 060_1.bmp : 0.46475474039713544
-hamming distance of 050_1.bmp and 002_1.bmp : 0.48000335693359375
-hamming distance of 050_1.bmp and 004_1.bmp : 0.48215484619140625
-hamming distance of 001_2.bmp and 050_1.bmp : 0.49606068929036456
-hamming distance of 001_2.bmp and 001_1.bmp : 0.3457743326822917
-hamming distance of 001_2.bmp and 060_1.bmp : 0.5032094319661459
-hamming distance of 001_2.bmp and 002_1.bmp : 0.4950205485026042
-hamming distance of 001_2.bmp and 004_1.bmp : 0.4903055826822917
-hamming distance of 001_1.bmp and 050_1.bmp : 0.49991607666015625
-hamming distance of 001_1.bmp and 001_2.bmp : 0.3457743326822917
-hamming distance of 001_1.bmp and 060_1.bmp : 0.5109405517578125
-hamming distance of 001_1.bmp and 002_1.bmp : 0.5073801676432291
-hamming distance of 001_1.bmp and 004_1.bmp : 0.5021820068359375
-hamming distance of 060_1.bmp and 050_1.bmp : 0.46475474039713544
-hamming distance of 060_1.bmp and 001_2.bmp : 0.5032094319661459
-hamming distance of 060_1.bmp and 001_1.bmp : 0.5109405517578125
-hamming distance of 060_1.bmp and 002_1.bmp : 0.4887034098307292
-hamming distance of 060_1.bmp and 004_1.bmp : 0.4919840494791667
-hamming distance of 002_1.bmp and 050_1.bmp : 0.48000335693359375
-hamming distance of 002_1.bmp and 001_2.bmp : 0.4950205485026042
-hamming distance of 002_1.bmp and 001_1.bmp : 0.5073801676432291
-hamming distance of 002_1.bmp and 060_1.bmp : 0.4887034098307292
-hamming distance of 002_1.bmp and 004_1.bmp : 0.4824473063151042
-hamming distance of 004_1.bmp and 050_1.bmp : 0.48215484619140625
-hamming distance of 004_1.bmp and 001_2.bmp : 0.4903055826822917
-hamming distance of 004_1.bmp and 001_1.bmp : 0.5021820068359375
-hamming distance of 004_1.bmp and 060_1.bmp : 0.4919840494791667
-hamming distance of 004_1.bmp and 002_1.bmp : 0.4824473063151042
+
+89 , 0.2
+31 , 1.0
+74 , 1.0
+52 , 0.8
+17 , 1.0
+8 , 1.0
+15 , 0.8
+50 , 0.6
+96 , 0.4
+28 , 1.0
+13 , 1.0
+56 , 0.8
+70 , 1.0
+35 , 1.0
+90 , 1.0
+49 , 0.6
+37 , 0.8
+72 , 1.0
+92 , 0.8
+54 , 1.0
+11 , 0.8
+76 , 1.0
+33 , 1.0
+94 , 1.0
+69 , 1.0
+48 , 1.0
+55 , 0.8
+10 , 0.4
+93 , 0.8
+71 , 1.0
+34 , 1.0
+12 , 1.0
+57 , 0.8
+9 , 0.8
+77 , 1.0
+32 , 1.0
+97 , 0.6
+68 , 0.8
+88 , 1.0
+53 , 1.0
+16 , 0.8
+30 , 1.0
+75 , 0.8
+95 , 0.8
+14 , 1.0
+51 , 1.0
+91 , 1.0
+29 , 1.0
+36 , 1.0
+73 , 0.8
+38 , 1.0
+80 , 0.4
+25 , 0.8
+60 , 0.8
+82 , 1.0
+62 , 1.0
+27 , 1.0
+1 , 1.0
+44 , 1.0
+79 , 0.8
+84 , 1.0
+7 , 1.0
+42 , 1.0
+18 , 0.8
+40 , 1.0
+5 , 1.0
+23 , 1.0
+66 , 0.4
+86 , 0.6
+64 , 0.4
+21 , 1.0
+99 , 0.8
+59 , 1.0
+46 , 1.0
+3 , 1.0
+87 , 0.8
+22 , 0.8
+67 , 1.0
+41 , 0.8
+4 , 1.0
+98 , 1.0
+78 , 1.0
+85 , 0.6
+65 , 1.0
+20 , 1.0
+58 , 0.8
+45 , 1.0
+63 , 1.0
+26 , 1.0
+39 , 1.0
+81 , 1.0
+47 , 0.8
+2 , 1.0
+100 , 0.4
+24 , 1.0
+61 , 1.0
+83 , 0.8
+6 , 0.8
+43 , 0.6
+19 , 1.0
+mAP , 0.8779999999999996

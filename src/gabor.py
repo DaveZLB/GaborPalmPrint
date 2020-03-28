@@ -61,30 +61,30 @@ gabor_kernel_params = [
     'frequency': 0.1833,
     'kernel_size': 17
   },
-  {
-    'theta': 0 / 4 * np.pi,
-    'sigma': 5.6179,
-    'frequency': 0.0916,
-    'kernel_size': 35
-  },
-  {
-    'theta': 1 / 4 * np.pi,
-    'sigma': 5.6179,
-    'frequency': 0.0916,
-    'kernel_size': 35
-  },
-  {
-    'theta': 2 / 4 * np.pi,
-    'sigma': 5.6179,
-    'frequency': 0.0916,
-    'kernel_size': 35
-  },
-  {
-    'theta': 3 / 4 * np.pi,
-    'sigma': 5.6179,
-    'frequency': 0.0916,
-    'kernel_size': 35
-  },
+  # {
+  #   'theta': 0 / 4 * np.pi,
+  #   'sigma': 5.6179,
+  #   'frequency': 0.0916,
+  #   'kernel_size': 35
+  # },
+  # {
+  #   'theta': 1 / 4 * np.pi,
+  #   'sigma': 5.6179,
+  #   'frequency': 0.0916,
+  #   'kernel_size': 35
+  # },
+  # {
+  #   'theta': 2 / 4 * np.pi,
+  #   'sigma': 5.6179,
+  #   'frequency': 0.0916,
+  #   'kernel_size': 35
+  # },
+  # {
+  #   'theta': 3 / 4 * np.pi,
+  #   'sigma': 5.6179,
+  #   'frequency': 0.0916,
+  #   'kernel_size': 35
+  # },
 ]
 
 def make_gabor_kernel(gabor_kernel_params):
